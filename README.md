@@ -1,7 +1,17 @@
-### Hi there 👋
+# Tianna Lopes
+
+🌴 **Location**: Florida
+
+🚀 Hey there! I'm Tianna! 🚁💻📚
+
+
+*Thanks for stopping by!* 👋
+
 
 <!--
-**TiannaLopes/TiannaLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Email: tiannaalinalopes@gmail.com
+
+**TiannaLopesOSU/TiannaLopesOSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
