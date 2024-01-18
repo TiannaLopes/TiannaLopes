@@ -1,13 +1,25 @@
 # Tianna Lopes
 
-🌴 **Florida Based**
+🌴 **Florida Based** - 🍁 Originally from Vancouver, Canada
 
- Hi I'm Tianna! 💻📚
+Hi, I'm Tianna! 💻📚 A passionate coder and avid reader.
 
 📧 Email: tiannaalinalopes@gmail.com
 
+🌉 From the vibrant city of Vancouver to the sunny shores of Florida, I've brought my love for technology and literature with me. When I'm not coding, you can find me engrossed in a good book or exploring local book clubs.
 
+🏢 Currently working at OSU, with past experience at World Travel Holdings. I love blending technology with everyday life to create impactful solutions.
+
+### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Alina:p)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([Your-CodePen-Link](https://codepen.io/tiannalopes))
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](tiannaalinalopes@gmail.com)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tiannalopes)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](mailto:tiannaalinalopes@gmail.com)
 
+
+### Tech Stack:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
