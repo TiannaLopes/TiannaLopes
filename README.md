@@ -6,9 +6,7 @@ Hi, I'm Tianna! 💻📚 A passionate coder and avid reader.
 
 📧 Email: tiannaalinalopes@gmail.com
 
-🌉 From the vibrant city of Vancouver to the sunny shores of Florida, I've brought my love for technology and literature with me. When I'm not coding, you can find me engrossed in a good book or exploring local book clubs.
-
-🏢 Currently working at OSU, with past experience at World Travel Holdings. I love blending technology with everyday life to create impactful solutions.
+🏢 Currently working at OSU, with past experience at World Travel Holdings.
 
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Alina:p)
