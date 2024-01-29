@@ -11,10 +11,9 @@
 
 ### 🤝 Connect with me:
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiannaalinalopes@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](alinap_78524)
-- [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([Your-CodePen-Link](https://codepen.io/tiannalopes))
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([Your-Instagram-Link](https://www.instagram.com/tiannalopes_/))
-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?)](https://twitter.com/LopesTianna)
+- [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tiannalopes)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiannalopes_/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LopesTianna)
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
