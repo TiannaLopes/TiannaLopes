@@ -5,7 +5,8 @@
 👋 Hi, I'm Tianna!
 
 ### About Me
-- 🏢 **Current Role**: Working at OSU
+- 🏢 **Current Roles**: Analyst Programmer at OSU
+- 🏢 **Currently Collaborating With**: Unicreatives LLC, Community School of the Arts Foundation
 - 🛳 **Past Experience**: World Travel Holdings
 - 📖 **Interests**: Coding, Reading, Exploring Book Clubs
 
