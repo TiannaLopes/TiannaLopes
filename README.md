@@ -6,7 +6,7 @@
 
 ### About Me
 - 🏢 **Current Roles**: Analyst Programmer at OSU
-- 🏢 **Currently Collaborating With**: Unicreatives LLC, Community School of the Arts Foundation
+- 🤝🏼 **Currently Collaborating With**:  𓃗 Unicreatives LLC - 📓✐ Community School of the Arts Foundation
 - 🛳 **Past Experience**: World Travel Holdings
 - 📖 **Interests**: Coding, Reading, Exploring Book Clubs
 
