@@ -27,12 +27,12 @@
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<!-- ![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show_icons=true&theme=radical)
 [![Tianna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/TiannaLopes/github-readme-stats#gh-dark-mode-only)
 [![Tianna's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/TiannaLopes/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiannaLopes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiannaLopes&hide_progress=true) -->
 [![Tianna's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/TiannaLopes/github-readme-stats)
 
 
