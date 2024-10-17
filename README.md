@@ -35,8 +35,11 @@
 [![Tianna's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/TiannaLopes/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiannaLopes&hide_progress=true) -->
 
-
+## Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiannaLopes&hide_progress=true)
+
+## Visitor Count 
+![Visitor Count](https://komarev.com/ghpvc/?username=TiannaLopes&style=flat-square)
 
 
 
