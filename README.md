@@ -3,7 +3,8 @@
 **🌴 Florida Based - 🍁 Originally from Vancouver, Canada**
 
 👋 Hi, I'm Tianna!
-![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xmc3VrNno5MmcxZ3RtaGw4Z2xxenU2bWZiaXAxZ2IzYmdmbXE4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif/gif-file.gif)
+![Alt text](https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+
 
 
 ### About Me
