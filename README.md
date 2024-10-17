@@ -27,6 +27,7 @@
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+[//]: <> ( [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes)](https://github.com/TiannaLopes/github-readme-stats)
+.)
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes)](https://github.com/TiannaLopes/github-readme-stats)
 
