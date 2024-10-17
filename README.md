@@ -2,6 +2,7 @@
 
 **🌴 Florida Based - 🍁 Originally from Vancouver, Canada**
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/TiannaLopes/zhoosh)
 
 ![Alt text](https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
