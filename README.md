@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiannaLopes&hide_progress=true)
 
 ## Visitor Count 
-![Visitor Count](https://komarev.com/ghpvc/?username=TiannaLopes&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=TiannaLopes&style=for-the-badge&color=ff69b4)
 
 
 
