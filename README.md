@@ -33,7 +33,7 @@ ZHOOSH --> ![GitHub release (latest by date)](https://img.shields.io/github/v/re
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
- ![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiannalopes&show_icons=true&theme=radical)
+ <!--![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiannalopes&show_icons=true&theme=radical)-->
 
 
 <!-- ![Tianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiannaLopes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
