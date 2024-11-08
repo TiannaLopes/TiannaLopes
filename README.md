@@ -6,11 +6,11 @@ ZHOOSH --> ![GitHub release (latest by date)](https://img.shields.io/github/v/re
 
 
 <p align="center">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="50px">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="50px">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="50px">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="50px">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="50px">
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="100px">
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="100px">
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="100px">
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Alt text" height="100px">
+
 </p>
 
 
