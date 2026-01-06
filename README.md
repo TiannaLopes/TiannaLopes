@@ -17,7 +17,6 @@ ZHOOSH --> ![GitHub release (latest by date)](https://img.shields.io/github/v/re
 
 ### About Me
 - 🏢 **Current Roles**: Analyst Programmer at OSU
-- 🤝🏼 **Currently Collaborating With**:  𓃗 Unicreatives LLC - 📓✐ Community School of the Arts Foundation
 - 🛳 **Past Experience**: World Travel Holdings
 - 📖 **Interests**: Coding, Reading, Exploring Book Clubs
 
